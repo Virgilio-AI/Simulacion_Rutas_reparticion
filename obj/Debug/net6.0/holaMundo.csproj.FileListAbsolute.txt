@@ -1,0 +1,15 @@
+C:\Users\virgi\source\repos\holaMundo\bin\Debug\net6.0\holaMundo.exe
+C:\Users\virgi\source\repos\holaMundo\bin\Debug\net6.0\holaMundo.deps.json
+C:\Users\virgi\source\repos\holaMundo\bin\Debug\net6.0\holaMundo.runtimeconfig.json
+C:\Users\virgi\source\repos\holaMundo\bin\Debug\net6.0\holaMundo.dll
+C:\Users\virgi\source\repos\holaMundo\bin\Debug\net6.0\holaMundo.pdb
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\holaMundo.csproj.AssemblyReference.cache
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfoInputs.cache
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfo.cs
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\holaMundo.csproj.CoreCompileInputs.cache
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\holaMundo.dll
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\refint\holaMundo.dll
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\holaMundo.pdb
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\holaMundo.genruntimeconfig.cache
+C:\Users\virgi\source\repos\holaMundo\obj\Debug\net6.0\ref\holaMundo.dll
