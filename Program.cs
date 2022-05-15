@@ -151,6 +151,12 @@ class Program
     {
         string option = "";
         int daysCount = 0;
+        CLass1 data_base =  new CLass1();
+
+        Console.Write("imported the class");
+        Console.Write("names: " + data_base.names);
+
+
         while (option == "" || option == "continue")
         {
             daysCount++;
