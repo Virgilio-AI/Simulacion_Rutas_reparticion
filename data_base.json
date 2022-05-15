@@ -1,17 +1,11 @@
 
 {
-"name":{
-	"example":"example",
-	"example":1
-},
 
-
-"arr":["elem1","elem2"],
 
 
 "numCustomers":2,
 
-"names":["tienda1","tienda2","tienda3","tienda4"],
+"names":["tienda1","tienda2","tienda3"],
 
 "pedidos":[[1,2,1],[3,4,2],[25,5,2]],
 
