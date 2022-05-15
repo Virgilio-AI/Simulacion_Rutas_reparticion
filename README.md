@@ -4,16 +4,19 @@ This is a project for designing routes for on demand buyers
  # installation
  firts clone the git repo to your local machine 
  
- `git clone https://github.com/Virgilio-AI/Simulacion_Rutas_reparticion.git`
+ ```
+ git clone https://github.com/Virgilio-AI/Simulacion_Rutas_reparticion.git
+ ```
  
  
  # usage
  now open it with visual studio or just run the executable
  
- `
+ ```
  cd Simulacion_Rutas_reparticion
+
  mono /bin/Debug/net6.0/holaMundo.exe
- `
+ ```
  
  
  # screen shots
